@@ -38,11 +38,11 @@ body {
   display: flex;
   flex-direction: column;
   justify-content: center;
-  margin: 15rem 15rem 15rem 15rem;
 }
 
 @media screen and (max-width: 1200px) {
   body {
     justify-content: flex-start;
+    margin: 8rem 0rem 8rem 0rem;
   }
 }
