@@ -189,7 +189,7 @@ export default function BannerInformation() {
             className={styles.poster}
             src={movieData.short.image}
             alt="image of poster movie"
-            width={300}
+            width={280}
             height={400}
           />
           <div className={styles.timerCalendar}>
@@ -218,7 +218,7 @@ export default function BannerInformation() {
               width={28}
               height={28}
             />
-            <span>Assistir Trailer</span>
+            <span>assistir trailer</span>
           </a>
         </>
       ) : (

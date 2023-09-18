@@ -18,7 +18,7 @@ export default function Header() {
         className={styles.recommendation}
         type="button"
       >
-        Nova recomendação
+        nova recomendação
         <Image src={flashIcon} alt="" height={32} width={32} />
       </button>
     </header>

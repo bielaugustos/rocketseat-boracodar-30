@@ -38,6 +38,7 @@ body {
   display: flex;
   flex-direction: column;
   justify-content: center;
+  margin: 15rem 15rem 15rem 15rem;
 }
 
 @media screen and (max-width: 1200px) {

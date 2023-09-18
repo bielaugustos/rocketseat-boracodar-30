@@ -103,7 +103,9 @@
   align-items: center;
   flex-direction: column;
   width: 18.75rem;
-  height: 34.125rem;
+  height: 25.125rem;
   text-align: center;
   background: black;
+  border-radius: 0.25rem;
+
 }
